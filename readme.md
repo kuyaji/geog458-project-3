@@ -4,10 +4,10 @@
 
 This project uses web map applications to display Covid-19 cases and rates across the United States in 2002. The first map shows the rates of Covid-19 per 100k people through a choropleth map. The second map visualizes Covid-19 cases using a proporitional symbols map.
 
-- [Map 1: Covid-19 Rates](map1.html)
+- [Map 1: Covid-19 Rates](https://kuyaji.github.io/geog458-project-3/map1.html)
     - Hovering over a state will display information about the county as well as the case count.
     - The darker the color, the higher the rates of Covid-19 per 100k people.
-- [Map 2: Covid-19 Cases](map2.html)
+- [Map 2: Covid-19 Cases](https://kuyaji.github.io/geog458-project-3/map2.html)
     - Clicking on a circle will display the number of cases in that region.
     - The bigger the circle, the more cases of Covid-19 were reported.
 
